@@ -1,0 +1,5 @@
+jeql:
+  takeshape:
+    url: "https://api.takeshape.io/project/cc4c093e-1b6b-4ca8-90f5-3ed12ffe0d90/v3/graphql"
+    header:
+      Authorization: "Bearer 18c3fca5eaad4b25b92384c739727c7e"
