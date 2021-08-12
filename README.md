@@ -21,6 +21,10 @@ The following is a guide to launching a Jekyll TakeShape project that injects Ec
 
 5. Edit `_config2.yml` in the root directory and replace the text that says `YOUR-ENDPOINT-HERE` with your API Endpoint. Replace the text that says `YOUR-API-KEY-HERE` with your API Key.
 
+6. Install Ruby, [using Jekyll's guide](https://jekyllrb.com/docs/installation/#requirements).
+
+6. Install the jekyll bundler gem: `gem install bundler jekyll`
+
 6. Run `bundle exec jekyll serve --config _config.yml,_config2.yml` in your terminal.
 
 
