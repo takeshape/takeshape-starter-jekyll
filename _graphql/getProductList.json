@@ -1,0 +1,3 @@
+{
+  "query":" query{ getProductList{ items{ name price } } }"
+}
